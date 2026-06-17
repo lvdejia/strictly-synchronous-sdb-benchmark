@@ -3,3 +3,4 @@ __pycache__/
 outputs/
 figures/
 *.joblib
+data/.csv
